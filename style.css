@@ -74,7 +74,7 @@ section nav .icons i:hover {
   color: #c72092;
 }
 
-/* section .main .main_content {
+section .main .main_content {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -154,4 +154,4 @@ section .main .button i {
 
 section .main .button:hover i {
   transform: translateX(6px);
-} */
+}
