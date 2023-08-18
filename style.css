@@ -498,7 +498,7 @@ section .main .button:hover i {
 
 /*Services*/
 
-/* .services {
+.services {
   width: 70%;
   margin: 0 auto;
   text-align: center;
@@ -543,7 +543,7 @@ section .main .button:hover i {
   text-align: center;
   color: #919191;
   margin-bottom: 60px;
-} */
+}
 
 /*Login Form*/
 
