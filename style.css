@@ -681,7 +681,7 @@ section .main .button:hover i {
 
 /*Footer*/
 
-/* footer {
+footer {
   width: 100%;
 }
 
@@ -795,4 +795,4 @@ footer .footer_main .tag .search_bar button {
   border-radius: 25px;
   color: white;
   cursor: pointer;
-} */
+}
