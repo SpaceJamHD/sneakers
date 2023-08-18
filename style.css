@@ -547,7 +547,7 @@ section .main .button:hover i {
 
 /*Login Form*/
 
-/* .login_form {
+.login_form {
   width: 100%;
   height: 100vh;
   display: flex;
@@ -677,7 +677,7 @@ section .main .button:hover i {
 .login_form .right .loging_icon img {
   width: 20px;
   margin: 5px 5px;
-} */
+}
 
 /*Footer*/
 
